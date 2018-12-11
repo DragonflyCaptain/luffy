@@ -38,7 +38,10 @@ module.exports = {
         },{
           text: 'GitHub',
           link: 'https://github.com/DragonflyCaptain'
-        },
+        },{
+          text: 'React',
+          link: 'https://kairi1227.github.io/'
+        }
       ],
       lastUpdated: 'lastUpdated', // 最后更新
       // sidebar: [
