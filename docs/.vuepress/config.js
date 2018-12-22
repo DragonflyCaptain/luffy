@@ -43,7 +43,7 @@ module.exports = {
           link: 'https://kairi1227.github.io/'
         }
       ],
-      lastUpdated: 'lastUpdated', // 最后更新
+      // lastUpdated: 'lastUpdated', // 最后更新
       // sidebar: [
       //   ['/', 'Home'],
       //   ['/ferryPeople/','摆渡人'],
